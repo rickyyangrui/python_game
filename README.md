@@ -8,6 +8,9 @@
 ## Gluttonous_snake
 贪吃蛇游戏
 
+## add Calculator
+用Python做一个计算器
+
 ## etc
 .
 .
