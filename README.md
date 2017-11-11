@@ -13,8 +13,6 @@
 * [add Calculator](https://github.com/rickyyangrui/python_game/tree/master/calculator)
 
 用Python做一个计算器
-
-## 整理下胸前的红领巾，慢慢学习，慢慢更新
 .
 .
 .
